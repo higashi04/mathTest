@@ -1,0 +1,16 @@
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.csproj.AssemblyReference.cache
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\sisharp\math\bin\MCD\Debug\net5.0\math.exe
+C:\Users\Cesar\Desktop\sisharp\math\bin\MCD\Debug\net5.0\math.deps.json
+C:\Users\Cesar\Desktop\sisharp\math\bin\MCD\Debug\net5.0\math.runtimeconfig.json
+C:\Users\Cesar\Desktop\sisharp\math\bin\MCD\Debug\net5.0\math.runtimeconfig.dev.json
+C:\Users\Cesar\Desktop\sisharp\math\bin\MCD\Debug\net5.0\math.dll
+C:\Users\Cesar\Desktop\sisharp\math\bin\MCD\Debug\net5.0\ref\math.dll
+C:\Users\Cesar\Desktop\sisharp\math\bin\MCD\Debug\net5.0\math.pdb
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.dll
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\ref\math.dll
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.pdb
+C:\Users\Cesar\Desktop\sisharp\math\obj\MCD\Debug\net5.0\math.genruntimeconfig.cache
